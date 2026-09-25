@@ -14,3 +14,4 @@ one you log into git check the version by using command git --version thereafter
 open VS studio click on open folder access the folder which you have created on your desktop later access the content which is on your GITHUB by copying the path git clone.
 <br>
 further if you want to change the directory you can use CD.and build further.
+hello there
